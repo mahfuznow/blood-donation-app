@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "850897490347",
+    "firebase_url": "https://bdblooddonar.firebaseio.com",
+    "project_id": "bdblooddonar",
+    "storage_bucket": "bdblooddonar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850897490347:android:17d2525a5993eaab",
+        "android_client_info": {
+          "package_name": "com.bd.blood.donor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850897490347-bbtkf381d28tmr946m9o7qbvdq8o16no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bd.blood.donor",
+            "certificate_hash": "a35059468d8b876392b6605282f99a894a38cd21"
+          }
+        },
+        {
+          "client_id": "850897490347-5r12k57mf02p1m1o3jfka33qndh812ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ryySNrHPyusfXbkiXiLHPgsrAJAPoeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850897490347-5r12k57mf02p1m1o3jfka33qndh812ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850897490347:android:55658d2f4f8d9a71",
+        "android_client_info": {
+          "package_name": "com.tuition.media.bdblooddonar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850897490347-4jbopn3psg2e0mc8rgsp654an3mkfahg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuition.media.bdblooddonar",
+            "certificate_hash": "a35059468d8b876392b6605282f99a894a38cd21"
+          }
+        },
+        {
+          "client_id": "850897490347-5r12k57mf02p1m1o3jfka33qndh812ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ryySNrHPyusfXbkiXiLHPgsrAJAPoeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850897490347-5r12k57mf02p1m1o3jfka33qndh812ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850897490347:android:15fb2ad8b0056ee4",
+        "android_client_info": {
+          "package_name": "just.cse.mahfuz.bdblooddonar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850897490347-mu225rfrelvjgkdlfcdhkhi3mse9vs1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "just.cse.mahfuz.bdblooddonar",
+            "certificate_hash": "a35059468d8b876392b6605282f99a894a38cd21"
+          }
+        },
+        {
+          "client_id": "850897490347-5r12k57mf02p1m1o3jfka33qndh812ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ryySNrHPyusfXbkiXiLHPgsrAJAPoeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850897490347-5r12k57mf02p1m1o3jfka33qndh812ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
